@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+<p><a href="diff.html">Go to Page 2</a></p>
   <header>
     <nav>
       <a href="index.html">Home</a> |
